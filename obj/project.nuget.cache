@@ -1,8 +1,33 @@
 {
   "version": 2,
-  "dgSpecHash": "q0dIeiu76i8=",
+  "dgSpecHash": "ns1zV2icR5I=",
   "success": true,
   "projectFilePath": "C:\\Users\\iohan\\Documents\\development\\minimal-api\\minimal-api.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-rc.2.24474.1\\microsoft.entityframeworkcore.9.0.0-rc.2.24474.1.nupkg.sha512",
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-rc.2.24474.1\\microsoft.entityframeworkcore.abstractions.9.0.0-rc.2.24474.1.nupkg.sha512",
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-rc.2.24474.1\\microsoft.entityframeworkcore.analyzers.9.0.0-rc.2.24474.1.nupkg.sha512",
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-rc.2.24473.5\\microsoft.extensions.caching.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-rc.2.24473.5\\microsoft.extensions.caching.memory.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-rc.2.24473.5\\microsoft.extensions.dependencyinjection.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-rc.2.24473.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-rc.2.24473.5\\microsoft.extensions.logging.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-rc.2.24473.5\\microsoft.extensions.logging.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-rc.2.24473.5\\microsoft.extensions.options.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\iohan\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-rc.2.24473.5\\microsoft.extensions.primitives.9.0.0-rc.2.24473.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "minimal-api depende de Microsoft.EntityFrameworkCore (>= 9.0.0-rc.1.25451.107) mas Microsoft.EntityFrameworkCore 9.0.0-rc.1.25451.107 não foi encontrado. Microsoft.EntityFrameworkCore 9.0.0-rc.2.24474.1 foi resolvido.",
+      "projectPath": "C:\\Users\\iohan\\Documents\\development\\minimal-api\\minimal-api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\iohan\\Documents\\development\\minimal-api\\minimal-api.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }
